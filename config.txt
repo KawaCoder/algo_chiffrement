@@ -1,0 +1,4 @@
+degres=4
+coef=356,3453,-2345,-23,659
+index=34754
+totalchar=5
