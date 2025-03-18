@@ -36,7 +36,10 @@ Comment fonctionne l'algorithme:
 
 ## Screenshots
 
-![chiffrement](https://github.com/user-attachments/assets/c95c1f44-ca70-4648-badd-4af92d42d461)
+![oui](https://github.com/user-attachments/assets/c95c1f44-ca70-4648-badd-4af92d42d461)
+
+![oui](https://github.com/user-attachments/assets/b3bb2a62-f19c-488d-9fe9-8e5c0eeeef11)
+
 
 
 
