@@ -32,3 +32,12 @@ Comment fonctionne l'algorithme:
 3. Calcul de la clef grâce à l'index
 4. Opération XOR pour retrouver le message codé
 5. Mise à jour du nombre de charactère dans config.txt (pour les futures opérations)
+
+
+## Screenshots
+
+![chiffrement](https://github.com/user-attachments/assets/c95c1f44-ca70-4648-badd-4af92d42d461)
+
+
+
+
